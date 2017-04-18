@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356797947683",
+    "firebase_url": "https://myreceipt-59a06.firebaseio.com",
+    "project_id": "myreceipt-59a06",
+    "storage_bucket": "myreceipt-59a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356797947683:android:9ff8140ba983acd2",
+        "android_client_info": {
+          "package_name": "com.kuk.myreceipt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356797947683-iueqon6qv8716s455og2a9s2lsp5kf1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD21fgt3ngCa7hzsu2MjPJvU2EM9orlxdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
