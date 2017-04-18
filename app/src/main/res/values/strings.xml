@@ -1,8 +1,19 @@
 <resources>
-    <string name="app_name">"My Receipt "</string>
+    <string name="app_name">"My Receipt"</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="develop_info">This application develop by Ms.Patima Sirilapporn</string>
+    <string name="contact_mail">Contact: <a href="mailto:hagaren_ne@hotmail.com?Subject=[MyReceipt]%20Support" target="_top">hagaren_ne@hotmail.com</a></string>
+
+    <string name="title_activity_fullimage">FullimageActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
